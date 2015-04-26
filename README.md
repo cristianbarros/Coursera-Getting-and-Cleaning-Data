@@ -8,7 +8,7 @@ This R script generates a tidy data set average summary from smartphone accelero
     this README.md file
     CodeBook.md - codebook describing the generated tidy data file
     run_analysis.R - a R script used to create the tidy data file.
-    data.csv - tidy data file
+    data.txt - tidy data file
 
 ###Repository Contents
 

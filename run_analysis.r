@@ -81,5 +81,5 @@ for (u_subject in unique_subject) {
 
 #Exporta dados para arquivo / Export data to file
 colnames(xx) <- colnames(data_set)
-write.table(xx, "data.csv", sep = ";", row.names=FALSE) 
+write.table(xx, "data.txt", sep = ";", row.names=FALSE) 
 
